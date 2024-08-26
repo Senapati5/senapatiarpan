@@ -2015,8 +2015,8 @@ footer {
 /* Chat Icon */
 .chat-icon {
     position: fixed;
-    bottom: 20px;
-    left: 20px; /* Changed from right to left */
+    bottom: 30px;
+    left: 30px; /* Changed from right to left */
     cursor: pointer;
     
 
