@@ -2009,3 +2009,31 @@ footer {
         gap: 20px
     }
 }
+
+
+
+/* Chat Icon */
+.chat-icon {
+    position: fixed;
+    bottom: 20px;
+    left: 20px; /* Changed from right to left */
+    cursor: pointer;
+    
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.chat-icon img {
+    width: 40px;
+    height: 40px;
+    fill: #d71010;
+}
+
+
+
+
+
+
